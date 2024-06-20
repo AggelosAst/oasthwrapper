@@ -1,0 +1,21 @@
+{
+  "name": "oasthwrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "haversine": "^1.1.1",
+    "jssha": "^3.3.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/haversine": "^1.1.8"
+  }
+}
