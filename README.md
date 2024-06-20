@@ -1,6 +1,6 @@
 # OasthWrapper
 
-## A Wrapper for Oasth Telematis.
+## A Wrapper for Oasth Telematics.
 
 # About
 
